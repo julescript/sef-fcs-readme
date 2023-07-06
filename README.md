@@ -1,4 +1,4 @@
-<img src="./svg.svg" alt="logo" />
+<img src="./svg2.svg" alt="logo" />
 
 
 
