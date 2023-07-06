@@ -1,11 +1,11 @@
-<a href="https://www.sefactory.io/fcs"><img src="./fcs.svg" alt="logo" /></a>
+<a href="https://www.sefactory.io/fcs" target="_blank"><img src="./fcs.svg" alt="logo" /></a>
 
 <p align="center">
-<a href="https://www.linkedin.com/"><img height="40px" src="./social02.svg" alt="icon | LinkedIn"/></a>
-<a href="https://www.linkedin.com/"><img height="40px" src="./social03.svg" alt="icon | LinkedIn"/></a>
-<a href="https://www.linkedin.com/"><img height="40px" src="./social01.svg" alt="icon | LinkedIn"/></a>
-<a href="https://www.linkedin.com/"><img height="40px" src="./social04.svg" alt="icon | LinkedIn"/></a>
-<a href="https://www.linkedin.com/"><img height="40px" src="./social05.svg" alt="icon | LinkedIn"/></a>
+<a href="https://www.facebook.com/SEFactory/" target="_blank"><img height="50px" src="./social02.svg" alt="icon | LinkedIn"/></a>
+<a href="https://twitter.com/se_factory" target="_blank"><img height="50px" src="./social03.svg" alt="icon | LinkedIn"/></a>
+<a href="https://www.instagram.com/sefactoryofficial" target="_blank"><img height="50px" src="./social01.svg" alt="icon | LinkedIn"/></a>
+<a href="https://twitter.com/se_factory" target="_blank"><img height="50px" src="./social04.svg" alt="icon | LinkedIn"/></a>
+<a href="https://www.linkedin.com/company/se-factory" target="_blank"><img height="50px" src="./social05.svg" alt="icon | LinkedIn"/></a>
 </p>
 
 
